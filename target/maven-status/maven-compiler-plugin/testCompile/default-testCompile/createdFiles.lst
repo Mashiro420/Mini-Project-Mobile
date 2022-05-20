@@ -1,0 +1,6 @@
+project\mobile\acceptancetests\AcceptanceTestSuite.class
+project\mobile\steps\LogoutSteps.class
+project\mobile\steps\LoginSteps.class
+project\mobile\steps\ProductSteps.class
+project\mobile\steps\RegisterSteps.class
+project\mobile\hooks\AndroidDriverHook.class

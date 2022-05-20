@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: project.mobile.acceptancetests.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 442.082 s - in project.mobile.acceptancetests.AcceptanceTestSuite

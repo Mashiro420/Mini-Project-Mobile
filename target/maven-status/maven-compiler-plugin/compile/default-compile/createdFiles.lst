@@ -1,0 +1,6 @@
+project\mobile\pages\LogoutPage.class
+project\mobile\pages\LoginPage.class
+project\mobile\pages\ProductPage.class
+project\mobile\driver\AndroidDriverInit.class
+project\mobile\base\BasePageObject.class
+project\mobile\pages\RegisterPage.class
